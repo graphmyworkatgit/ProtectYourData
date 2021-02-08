@@ -1,2 +1,2 @@
 # ProtectYourData
-C# exe to encrypt your data locally
+Desktop client(C# exe) to encrypt/decrypt your data locally
